@@ -75,9 +75,4 @@ public class User {
 
     }
 
-    public static void main(String...args){
-        List<Integer> nums = Arrays.asList(232432,4,32,4,32,4,32,53,2,5);
-        nums.forEach(System.out::println);
-
-    }
 }
