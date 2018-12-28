@@ -12,5 +12,6 @@ public class SampleProjectApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
+	public void sayHello(){}
 
 }
